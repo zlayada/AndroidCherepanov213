@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalendarView «Сроки задачи»</string>
+    <string name="tChooseStartDate">Дата-время старта задачи:</string>
+    <string name="tChooseEndDate">Дата-время окончания задачи:</string>
+    <string name="tBtnOK">ОК</string>
+
+</resources>
